@@ -27,8 +27,8 @@ Click on `Connections` to open the connection manager and add the following:
 
 You should now be able to connect to the Aspera server and see the raw data for your chosen IDR study.
 
-<img src="img/aspera/aspera-desktop-connection-manager.png" alt="Aspera Desktop connection manager" width="50%" />
-<img src="img/aspera/aspera-desktop-ssh-keys.png" alt="Aspera Desktop SSH keys" width="25%" />
+<img src="{{ "/img/aspera/aspera-desktop-connection-manager.png" | prepend: site.baseurl }}" alt="Aspera Desktop connection manager" width="50%" />
+<img src="{{ "/img/aspera/aspera-desktop-ssh-keys.png" | prepend: site.baseurl }}" alt="Aspera Desktop SSH keys" width="25%" />
 
 
 ## Command-line instructions
